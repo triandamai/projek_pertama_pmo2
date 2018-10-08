@@ -1,0 +1,4 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">PROJEK_SEDERHANA_PMO2_2</string>
+    <string name="ukuran" tools:ignore="ExtraTranslation">c est une taille de 200dp</string>
+</resources>
